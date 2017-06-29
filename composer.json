@@ -1,6 +1,13 @@
 {
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ltamaster/rundeck-sdk-php"
+        }
+    ],
     "require": {
-        "ltamaster/rundeck-sdk-php": "^0.1.0",
+        "akramfares/rundeck-sdk-php": "dev-master",
         "guzzlehttp/guzzle": "^6.3"
+		
     }
 }
