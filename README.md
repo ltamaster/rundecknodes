@@ -2,11 +2,15 @@
 
 ## Installation
 
-* Clone this repo on htdocs folder of Apache
+* Install PHP and Apache
+  http://vitalflux.com/php-install-apache-2-4-php-5-6-windows/
 
 * Install Composer
 
-    https://getcomposer.org/doc/00-intro.md
+  https://getcomposer.org/doc/00-intro.md
+
+
+* Clone this repo on htdocs folder of Apache
 
 * Install dependencies
 
