@@ -37,7 +37,9 @@
     in order to using this url related with another option, use:
     http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=${option.tag.value}
 
-![on success](images/Screenshot2017-06-29 12.14.02.png)
+![on success](https://github.com/ltamaster/rundecknodes/blob/master/images/Screenshot2017-06-29%2012.14.02.png)
+![on success](https://github.com/ltamaster/rundecknodes/blob/master/images/Screenshot2017-06-29%2012.26.48.png)
+![on success](https://github.com/ltamaster/rundecknodes/blob/master/images/Screenshot2017-06-29%2014.07.45.png)
 
 
 
