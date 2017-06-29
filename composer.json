@@ -1,6 +1,6 @@
 {
     "require": {
-        "akramfares/rundeck-sdk-php": "^0.1.0",
+        "ltamaster/rundeck-sdk-php": "^0.1.0",
         "guzzlehttp/guzzle": "^6.3"
     }
 }
