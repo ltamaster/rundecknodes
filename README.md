@@ -3,6 +3,7 @@
 ## Installation
 
 * Install PHP and Apache
+  
   http://vitalflux.com/php-install-apache-2-4-php-5-6-windows/
 
 * Install Composer
@@ -32,6 +33,7 @@
 * Filter by tag
 
     http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=someTag
+    
     *using tag=All will desible the filter.
 
     in order to using this url related with another option, use:
