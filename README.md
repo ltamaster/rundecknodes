@@ -1,29 +1,35 @@
 # Rundeck nodes
 
-## Clone this repo on htdocs folder of Apache
+## Installation
 
-## Install Composer
+* Clone this repo on htdocs folder of Apache
 
-https://getcomposer.org/doc/00-intro.md
+* Install Composer
 
-## Install dependencies
-```composer update```
+    https://getcomposer.org/doc/00-intro.md
 
-or 
+* Install dependencies
 
-```php composer.phar update```
+    ```composer update```
+
+    or 
+
+    ```php composer.phar update```
 
 ## How to use
 
-Create a new Option on a rundeck Job, and select "Remote URL".
-Then add the following URL
-http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]
+* Basic Use
 
-## Filter by tag
+    Create a new Option on a rundeck Job, and select "Remote URL".
+    Then add the following URL
+    http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]
+    
 
-http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=someTag
-* using tag=All will desible the filter.
+* Filter by tag
 
-in order to using this url related with another option, use:
-http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=${option.tag.value}
+    http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=someTag
+    *using tag=All will desible the filter.
+
+    in order to using this url related with another option, use:
+    http://[APACHE_URL]/rundecknodes/index.php?project=[ProjectName]&tag=${option.tag.value}
 
